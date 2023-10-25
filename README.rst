@@ -34,7 +34,7 @@ tic_tac_toe
 ===========
 
 
-    Add a short description here!
+    This is a game that two players, one making a circle and the other making a cross, take turns playing their own symbols on the 3 times 3 grid. The first player to connect horizontal, vertical and diagonal lines wins.
 
 
 A longer description of your project goes here...
